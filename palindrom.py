@@ -1,0 +1,1 @@
+word = input("vnesi besedo:").lower()
